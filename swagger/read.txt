@@ -1,0 +1,5 @@
+swagger-ui配置
+参考链接：http://blog.csdn.net/rickiyeat/article/details/72639596
+
+访问入口： http://localhost:2040/swagger-ui.html
+
